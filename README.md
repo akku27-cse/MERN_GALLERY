@@ -67,6 +67,6 @@ cd server
 ```shell
 mernGallery
 ```
-[Developer Portfolio](https://protfolio-eb371.web.app/)\n
-#Thank You 
+[Developer Portfolio](https://protfolio-eb371.web.app/)
+##Thank You 
 
