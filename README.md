@@ -15,7 +15,9 @@ git clone https://github.com/akku27-cse/MERN_GALLERY.git
 ```
 
 ## Install Client (React Files)
-
+```shell
+npx i create-react-app client
+```
 2. Get in the client folder
 
 ```shell
